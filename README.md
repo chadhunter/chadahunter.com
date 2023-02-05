@@ -25,6 +25,12 @@ Simply fork this repository and start editing the `_config.yml` file!
 
 Original README from HTML5 UP:
 
+# Operations
+
+- `bundle install` - command used to install all gem dependencies 
+- `budle exec jekyll serve` - command used to launch site locally for first time
+- `jekyll serve` - command used to launch site locally 
+
 ```
 Forty by HTML5 UP
 html5up.net | @ajlkn

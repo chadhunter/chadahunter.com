@@ -28,7 +28,7 @@ Original README from HTML5 UP:
 # Operations
 
 - `bundle install` - command used to install all gem dependencies 
-- `budle exec jekyll serve` - command used to launch site locally for first time
+- `bundle exec jekyll serve` - command used to launch site locally for first time
 - `jekyll serve` - command used to launch site locally 
 
 ```

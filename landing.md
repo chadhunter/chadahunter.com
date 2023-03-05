@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Readers are Leaders
 layout: landing
-description: 'Landing page description<br />and more description.'
+description: 'Leadership and self-improvement book summaries<br /> to accelerate the next generation of leaders.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-image: assets/images/pic01.jpg
+image: null
 nav-menu: false
 show_tile: false
 ---

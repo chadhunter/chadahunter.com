@@ -2,7 +2,7 @@
 title: Readers are Leaders
 layout: landing
 description: 'Leadership and self-improvement book summaries<br /> to accelerate the next generation of leaders.'
-image: assets/images/pic07.jpg
+image: assets/images/aspen.JPG
 nav-menu: true
 ---
 
@@ -13,9 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>landing.md page 1st header</h2>
+			<h2>Book Summaries</h2>
 		</header>
-		<p>landing.md 1st one text</p>
+		<p>A few of my favorite books are highlighted below. While not as valuable as reading the whole book,<br /> these summaries synthesize the most practical insights for you to immediately use.</p>
+		<ul class="actions">
+			<li><a href="/book-summaries/" class="button next">All Summaries</a></li>
+		</ul>
 	</div>
 </section>
 
@@ -23,7 +26,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +42,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,7 +82,7 @@ nav-menu: true
 		</header>
 		<p>landing.md 3rd one text</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="/book-summaries/" class="button next">All Summaries</a></li>
 		</ul>
 	</div>
 </section>

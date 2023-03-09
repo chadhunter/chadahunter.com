@@ -2,20 +2,22 @@
 layout: post
 title: Limitless Summary
 description: Limitless by Jim Kwik
-image: null
+image: assets/images/kwik-jim-limitless.webp
 permalink: /kwik-limitless/
 ---
 
 # 30 Second Overview
-This book is about maximizing your productivity and effectiveness in all areas of your life.
+This book is about maximizing and achieving your potential. Jim outlines methods to 
+understand how to learn rapidly and use those skills to unlock a limitless you.
 
 # Summary
 Resources can be found at https://www.limitlessbook.com/resources  
-Mindset (What?)
+
+## Mindset (What?)
 * Key concept(s): 
    * 7 lies of learning
       * Intelligence is fixed
-         * FIxed vs growth mindset
+         * Fixed vs growth mindset
          * Growth mindset - we have the power to improve anything
          * IQ is static measurement and misses creativity, practical intelligence (street smarts), and emotional intelligence
       * We only use 10% of our brains
@@ -40,7 +42,8 @@ Mindset (What?)
          * It's not your job to like, love, or respect me. It’s mine.
       * Genius is born
          * Genius is not born, it is made through deep practice
-Motivation (Why)
+
+## Motivation (Why)
 * Key concept(s): 
    * Motivation = Purpose x Energy x S3 (small simple steps), and flow
    * Propose
@@ -100,7 +103,8 @@ Motivation (Why)
          * Do something you love (and believe in)
          * Have clear goals - have a clear plan and objective to tackle (mental model)
          * Challenge yourself a little
-Methods (How) 
+
+## Methods (How) 
 * Key concept(s): 
    * 5 key meta-learning skills: focus, study, memory, speed reading, thinking
    * Focus

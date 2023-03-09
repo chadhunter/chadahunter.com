@@ -25,49 +25,49 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="center center" />
+		<a href="/kwik-limitless/" class="image">
+			<img src="{% link assets/images/kwik-jim-limitless.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>landing.md section 1 title</h3>
+					<h3>Limitless by Jim Kwik</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This book is about maximizing and achieving your potential. Jim outlines methods to understand how to learn rapidly and use those skills to unlock a limitless you.</p>
 				<ul class="actions">
-					<li><a href="/kwik-limitless/" class="button">Learn more</a></li>
+					<li><a href="/kwik-limitless/" class="button">Read Now</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="top center" />
+		<a href="/newport-digital-minimalism/" class="image">
+			<img src="{% link assets/images/newport-cal-digital-minimalism.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>landing.md section 2 title</h3>
+					<h3>Digital Minimalism by Cal Newport</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This book is about critically evaluating digital media and only using it if the benefits clearly outweigh the costs.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/newport-digital-minimalism/" class="button">Read Now</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/aspen.JPG %}" alt="" data-position="25% 25%" />
+		<a href="/duhigg-smarter-faster-better/" class="image">
+			<img src="{% link assets/images/duhigg-charles-smarter-faster-better.webp %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>landing.md section 3 title</h3>
+					<h3>Smarter, Faster, Better by Charles Duhigg</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This book is about maximizing your productivity and effectiveness in all areas of your life.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/duhigg-smarter-faster-better/" class="button">Read Now</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,9 +78,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>landing.md page 3rd header</h2>
+			<h2>Looking for more?</h2>
 		</header>
-		<p>landing.md 3rd one text</p>
+		<p>Check out all my book summaries here. If you'd like me to summarize a book, please send me a message!</p>
 		<ul class="actions">
 			<li><a href="/book-summaries/" class="button next">All Summaries</a></li>
 		</ul>

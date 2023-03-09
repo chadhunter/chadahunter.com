@@ -2,21 +2,22 @@
 layout: post
 title: Digital Minimalism Summary
 description: Digital Minimalism by Cal Newport
-image: null
+image: assets/images/newport-cal-digital-minimalism.webp
 permalink: /newport-digital-minimalism/
 ---
 
 # 30 Second Overview
-This book is about maximizing your productivity and effectiveness in all areas of your life.
+This book is about critically evaluating digital media and only using it if the benefits clearly outweigh the costs.
 
 # Summary
 Quote: “The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediate or in the long run.”
 
-The Principles
+## The Principles
 * Principle #1: Clutter is costly. Digital minimalists recognize that cluttering their time and attention with too many devices, apps, and services creates an overall negative cost that can swamp the small benefits that each individual item provides in isolation. 
 * Principle #2: Optimization is important. Digital minimalists believe that deciding a particular technology supports something they value is only the first step. To truly extract its full potential benefit, it’s necessary to think carefully about how they’ll use the technology. 
 * Principle #3: Intentionality is satisfying. Digital minimalists derive significant satisfaction from their general commitment to being more intentional about how they engage with new technologies. This source of satisfaction is independent of the specific decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to its practitioners.
-Digital Declutter
+
+## Digital Declutter
 * Declutter process 
    * Step 1: Put aside a thirty-day period during which you will take a break from optional technologies in your life.
    * Step 2: During this thirty-day break, explore and rediscover activities and behaviors that you find satisfying and meaningful. 
@@ -36,7 +37,8 @@ Digital Declutter
          * Be the best way to use technology to serve this value (if it’s not, replace it with something better). 
          * Have a role in your life that is constrained with a standard operating procedure that specifies when and how you use it.
    * This process will help you cultivate a digital life in which new technologies serve your deeply held values as opposed to subverting them without your permission. It is in this careful reintroduction that you make the intentional decisions that will define you as a digital minimalist.
-Spend Time Alone
+
+## Spend Time Alone
 * Key concept(s): 
    * Regular doses of solitude mixes with our default mode of sociality are critical to flourishing as a human
    * Humans are not designed to be constantly wired/connected
@@ -45,7 +47,8 @@ Spend Time Alone
    * leave your phone at home 
    * go on long walks by yourself sans phone
    * write letters to yourself
-Don’t Click “Like”
+
+## Don’t Click “Like”
 * Key concept(s): 
    * We require high bandwidth social interaction such as analog conversation. Social media use correlates with depression and reduces the time we have for deep meaningful connection and conversation with others
    * We should use social media or tech to simplify the planning and logistics of arranging times for conversation, otherwise non-f2f comma do not count as conversation and will not help active our true social needs
@@ -53,7 +56,8 @@ Don’t Click “Like”
    * To adopt the baseline rule that you’ll no longer use social media as a tool for low-quality relationship nudges.
    * Consolidate texting to certain blocks of time 
    * Conversation office hours where you tell people particular times you’ll be available for calls or in person
-Reclaim Leisure
+   
+## Reclaim Leisure
 * Key concept(s): 
    * Bennett Principle - prioritize demanding activity over passive consumption
    * Use skills to produce valuable things in the physical world
@@ -63,7 +67,8 @@ Reclaim Leisure
    * Schedule low-quality leisure
    * Join something
    * Follow your leisure plans and create SMART goals with higher level objectives to accomplish your leisure goals
-Join the Attention Resistance
+
+## Join the Attention Resistance
 * Key concept(s): 
    * You have to be very purposeful to beat the tech giants who are monetizing your attention
 * Putting into practice: 

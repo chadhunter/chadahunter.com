@@ -7,6 +7,8 @@ nav-menu: true
 show_tile: false
 ---
 
+Dedicating my professional career to help reverse climate change and protect the Earth for future generations.
+
 Haleakala, HI
 ![Haleakala, HI]({{ site.url | absolute_path}}/assets/images/haleakala.JPG)
 

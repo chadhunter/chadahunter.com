@@ -10,4 +10,4 @@ show_tile: false
 
 [comment]: <> (Text below is from inspiration.md description)
 
-Reminders from nature on why I do what I do
+Reminders from nature on why I do what I do.

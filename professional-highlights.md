@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post_no_image
 title: Professional Highlights
 description: Public highlights of my professional career
-image: assets/images/pic11.jpg
+image: assets/images/new-zealand.JPG
 nav-menu: true
 ---
 

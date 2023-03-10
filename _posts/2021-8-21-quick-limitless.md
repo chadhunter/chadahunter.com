@@ -3,7 +3,7 @@ layout: post
 title: Limitless Summary
 description: Limitless by Jim Kwik
 image: assets/images/kwik-jim-limitless.webp
-permalink: /kwik-limitless/
+permalink: /chadahunter.com//kwik-limitless/
 ---
 
 # 30 Second Overview

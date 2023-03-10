@@ -3,7 +3,7 @@ layout: post
 title: Digital Minimalism Summary
 description: Digital Minimalism by Cal Newport
 image: assets/images/newport-cal-digital-minimalism.webp
-permalink: /newport-digital-minimalism/
+permalink: /chadahunter.com/newport-digital-minimalism/
 ---
 
 # 30 Second Overview

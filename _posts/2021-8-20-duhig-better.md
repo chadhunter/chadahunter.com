@@ -3,7 +3,7 @@ layout: post
 title: Smarter, Faster, Better Summary
 description: Smarter, Faster, Better by Charles Duhigg
 image: assets/images/duhigg-charles-smarter-faster-better.webp
-permalink: /duhigg-smarter-faster-better/
+permalink: /chadahunter.com//duhigg-smarter-faster-better/
 ---
 
 # 30 Second Overview

@@ -39,7 +39,7 @@ New Zealand
 ![New Zealand]({{ site.url | absolute_path}}/assets/images/new-zealand.JPG)
 
 Scotland
-![Crested Butte, CO]({{ site.url | absolute_path}}/assets/images/scotland.JPG)
+![Crested Butte, CO]({{ site.url | absolute_path}}/assets/images/scotland.jpg)
 
 Yellowstone, WY
-![Yellowstone, WY]({{ site.url | absolute_path}}/assets/images/yellowstone.JPG)
+![Yellowstone, WY]({{ site.url | absolute_path}}/assets/images/yellowstone.jpg)

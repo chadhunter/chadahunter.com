@@ -1,6 +1,6 @@
 # Welcome to my personal website repo!
 
-Welcome to my personal website. [Check it out live here](chadahunter.com)! 
+Welcome to my personal website. [Check it out live here](https://chadahunter.com/)! 
 If you have any suggested books to read or want to collaborate, please email me 
 through my website form! 
 

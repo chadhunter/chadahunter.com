@@ -2,6 +2,7 @@
 title: Readers are Leaders
 layout: landing
 description: 'Leadership and self-improvement book summaries<br /> to accelerate the next generation of leaders.'
+permalink: /readers-are-leaders/
 image: assets/images/aspen.JPG
 nav-menu: true
 ---

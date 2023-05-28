@@ -79,8 +79,8 @@ and Class 4 Parcel Delivery Trucks
 
 Below are selected awards of my professional career. [Find all my awards here.]({{ site.baseurl }}{% link awards.md %})
 
-<li>**2021 University of Rochester Young Alumni Achievement Award** (October 2021). Awarded to Chemical Engineering alumni within 10 years of their graduation date in recognition of significant accomplishments in professional leadership</li>
+<li><b>2021 University of Rochester Young Alumni Achievement Award</b> <i>(October 2021)</i>. Awarded to Chemical Engineering alumni within 10 years of their graduation date in recognition of significant accomplishments in professional leadership</li>
 
-<li>**2021 NREL President’s award** (September 2021). Awarded to a few NREL researchers each year who have demonstrated exemplary leadership and outstanding research over the past year</li>
+<li><b>2021 NREL President’s award</b> <i>(September 2021)</i>. Awarded to a few NREL researchers each year who have demonstrated exemplary leadership and outstanding research over the past year</li>
 
-<li>**2021 U.S. DOE AMR Leadership Award** (April 2021). Awarded by the U.S. DOE Hydrogen and Fuel Cell Technologies Office to one team each year for outstanding and mission-critical research impact</li>
+<li><b>2021 U.S. DOE AMR Leadership Award</b> <i>(April 2021)</i>. Awarded by the U.S. DOE Hydrogen and Fuel Cell Technologies Office to one team each year for outstanding and mission-critical research impact</li>

@@ -13,6 +13,7 @@ state: CO
 country: United States of America
 # phone: (716) 555-5555
 google_analytics: 'G-5KFV8BKV15'
+formspree_id: 'xnqyylag'
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

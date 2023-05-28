@@ -34,10 +34,12 @@ nav-menu: true
 Below are selected highlights of my research and work. [Find all my publications here.]({{ site.baseurl }}{% link publications.md %})
 
 
-## Techno-economic analysis of long-duration energy storage systems
+## Techno-economic analysis of long-duration energy storage systems (2021)
 
-As variable renewable energy penetration increases beyond 80%, clean power systems will
-require long-duration energy storage or flexible, low-carbon generation.
+This analysis was published in the high-impact journal _Joule_ (**Impact Factor: 41**). 
+
+**Abstract:** As variable renewable energy penetration increases beyond 80%, clean power 
+systems will require long-duration energy storage or flexible, low-carbon generation.
 Here, we provide a detailed techno-economic evaluation and uncertainty analysis of
 applicable technologies and identify challenges and opportunities to support electric
 grid planning. We show that for a 120-h storage duration rating, hydrogen systems with
@@ -55,7 +57,7 @@ enable very high (>80%) renewable energy grids.
 Graphical abstract from the long-duration energy storage techno-economic analysis
 ([Source](https://doi.org/10.1016/j.joule.2021.06.018))
 
-## Electrified Heavy-Duty Vehicle Powertrain Total Cost of Ownership Analysis
+## Electrified Heavy-Duty Vehicle Powertrain Total Cost of Ownership Analysis (2021)
 
 This breakthrough report compares six truck powertrain technologies to quantify their total cost of
 ownership (TCO) and identifies operating scenarios where each technology may have an economic
@@ -71,3 +73,14 @@ major conclusions to over 400 attendees.
 Report cover from Chad et al.'s Total Cost of Ownership analysis for Class 8 Tractors
 and Class 4 Parcel Delivery Trucks
 ([Source](https://www.nrel.gov/docs/fy21osti/71796.pdf))
+
+
+# Awards
+
+Below are selected awards of my professional career. [Find all my awards here.]({{ site.baseurl }}{% link awards.md %})
+
+<li>**2021 University of Rochester Young Alumni Achievement Award** (October 2021). Awarded to Chemical Engineering alumni within 10 years of their graduation date in recognition of significant accomplishments in professional leadership</li>
+
+<li>**2021 NREL President’s award** (September 2021). Awarded to a few NREL researchers each year who have demonstrated exemplary leadership and outstanding research over the past year</li>
+
+<li>**2021 U.S. DOE AMR Leadership Award** (April 2021). Awarded by the U.S. DOE Hydrogen and Fuel Cell Technologies Office to one team each year for outstanding and mission-critical research impact</li>
